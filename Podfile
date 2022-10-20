@@ -14,6 +14,7 @@ pod 'Firebase/Database'
   end
 
   target 'WordGuessUITests' do
-    # Pods for testing
+    # Pods for testing a
   end
 end
+
